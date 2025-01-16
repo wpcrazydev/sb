@@ -1,0 +1,7 @@
+<div class="box-content">
+    <h4><u>License Agreement</u></h4>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima hic sed pariatur vitae autem accusamus, fuga facilis in voluptas soluta atque vel. Voluptatibus placeat fugit ipsa. Voluptatem distinctio quidem ipsum.
+    Maiores animi dolorem aspernatur numquam esse. Excepturi tempora nemo nesciunt voluptas praesentium, molestiae harum, consectetur sapiente quia incidunt adipisci, eius reprehenderit debitis illo impedit vitae! Ratione, repellendus! Cupiditate, veritatis ad.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima hic sed pariatur vitae autem accusamus, fuga facilis in voluptas soluta atque vel. Voluptatibus placeat fugit ipsa. Voluptatem distinctio quidem ipsum.
+    Maiores animi dolorem aspernatur numquam esse. Excepturi tempora nemo nesciunt voluptas praesentium, molestiae harum, consectetur sapiente quia incidunt adipisci, eius reprehenderit debitis illo impedit vitae! Ratione, repellendus! Cupiditate, veritatis ad.Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima hic sed pariatur vitae autem accusamus, fuga facilis in voluptas soluta atque vel. Voluptatibus placeat fugit ipsa. Voluptatem distinctio quidem ipsum.
+    Maiores animi dolorem aspernatur numquam esse. Excepturi tempora nemo nesciunt voluptas praesentium, molestiae harum, consectetur sapiente quia incidunt adipisci, eius reprehenderit debitis illo impedit vitae! Ratione, repellendus! Cupiditate, veritatis ad.</p>
+</div>

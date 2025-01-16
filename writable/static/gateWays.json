@@ -1,0 +1,21 @@
+{
+    "gateways": [
+        {
+            "gateway": "razorpay",
+            "data": {
+                "merchant_key": "rzp_live_lndY6mP1TelJeK",
+                "merchant_salt": "V9DKWhH2SPf3Kz7yMAVXodhM",
+                "razorpay_status": "LIVE"
+            }
+        },
+        {
+            "gateway": "phonepe",
+            "data": {
+                "merchant_id": "B4ENTERPLUAT",
+                "merchant_index": "1",
+                "merchant_salt": "c86a5154-9723-49c8-857e-4cceccc664f0",
+                "phonepe_status": "TEST"
+            }
+        }
+    ]
+}

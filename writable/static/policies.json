@@ -1,0 +1,28 @@
+{
+    "policies": [
+        {
+            "policy": "disclaimer",
+            "data": {
+                "content": "Write your disclaimer here.."
+            }
+        },
+        {
+            "policy": "privacy_policy",
+            "data": {
+                "content": "Write your privacy policy here.."
+            }
+        },
+        {
+            "policy": "refund_policy",
+            "data": {
+                "content": "Write your refund policy here.."
+            }
+        },
+        {
+            "policy": "terms_and_conditions",
+            "data": {
+                "content": "Write your terms and conditions here.."
+            }
+        }
+    ]
+}
